@@ -1,0 +1,7 @@
+node_modules/
+src/.DS_Store
+.eslintcache
+.env
+src/components/.DS_Store
+src/components/Meals/.DS_Store
+.DS_Store
